@@ -1,4 +1,4 @@
 mnaresh2012.github.io
 =====================
 
-a demo for github page.
+my first git repository
