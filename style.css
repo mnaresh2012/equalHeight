@@ -2,14 +2,16 @@
   width: 1045px;
   margin: 0 auto;
 }
-#wrapper p {
+#wrapper p.logo {
   font-size: 45px;
-  color: gray;
+  color: #40454f;
+  margin-bottom: 15px;
 }
 #wrapper span {font-weight: bold;}
 #wrapper #main {
   height: 200px;
-  background:blue;
+  background:#d7614b;
   padding: 25px 0;
+  border-rdius: 12px;
 }
 
