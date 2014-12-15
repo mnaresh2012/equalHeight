@@ -1,4 +1,15 @@
-#header h2 {
-  color: red;
-  text-align: center;
+#wrapper {
+  width: 1045px;
+  margin: 0 auto;
 }
+#wrapper p {
+  font-size: 45px;
+  color: gray;
+}
+#wrapper span {font-weight: bold;}
+#wrapper #main {
+  height: 200px;
+  background:blue;
+  padding: 25px 0;
+}
+
