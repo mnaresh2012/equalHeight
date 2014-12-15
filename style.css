@@ -6,6 +6,7 @@
   font-size: 45px;
   color: #40454f;
   margin-bottom: 15px;
+  text-shadow: 2px 2px 3px #bbb;
 }
 #wrapper span {font-weight: bold;}
 #wrapper #main .about {
