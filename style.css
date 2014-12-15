@@ -11,10 +11,10 @@
 #wrapper #main {
   height: 200px;
   background:#5ea9dd;
-  padding: 0 0 25px 0;
+  padding: 5px;
   border-radius: 12px;
 }
-#main .about h3 {margin-bottom: 10px; padding-left: 15px;color: white;font-size: 25px;}
+#main .about h3 {margin-bottom: 10px; padding-left: 15px;color: white;font-size: 25px;margin:15px 0;}
 #main .about p {color: white; padding: 0 10px;}
-#footer p {color: #e8e9ea;}
+#footer p {color: #40454f;}
 
