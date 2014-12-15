@@ -8,7 +8,7 @@
   margin-bottom: 15px;
 }
 #wrapper span {font-weight: bold;}
-#wrapper #main {
+#wrapper #main .about {
   height: 200px;
   background:#5ea9dd;
   padding: 5px;
