@@ -2,7 +2,7 @@
 =====================
 
 ###Usage and Example -
-```
+CSS - ```
 li {
 	line-height: 30px;
 }
@@ -17,6 +17,7 @@ li span {
 ```
 
 ###Contributing -
+Please feel free to contribute to this library.
 
 ###Changelog -
 
