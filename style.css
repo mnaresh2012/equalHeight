@@ -1,9 +1,6 @@
 body {background: #fff;margin:0; padding:0;}
-.topbar {background: #000;height: 8px; width: 100%;margin-bottom: 12px;}
-#wrapper {
-  width: 1045px;
-  margin: 0 auto;
-}
+.topbar {background: #ccc;height: 8px; width: 100%;margin-bottom: 8px;}
+#wrapper {width: 1045px;margin: 0 auto;}
 #wrapper #header {text-align:center;}
 #wrapper #header h3 {margin-bottom: 10px; color: #ff6138;}
 #wrapper #header span {width: 10%; height: 5px;display: block; float: left;}
@@ -12,13 +9,8 @@ body {background: #fff;margin:0; padding:0;}
 #wrapper #header span.three, #wrapper #header span.eight{background: #beeb9f;}
 #wrapper #header span.four, #wrapper #header span.seven{background: #79bd8f;}
 #wrapper #header span.five, #wrapper #header span.six{background: #00a388;}
-#wrapper #header img {
-  border-radius: 100px; 
-  box-shadow: 3px 4px #ddd;
-}
-#wrapper #main .about {
-  padding: 5px;
-}
+#wrapper #header img {border-radius: 100px; box-shadow: 3px 4px #ddd;}
+#wrapper #main .about {padding: 5px;}
 #main .about h3 {margin-bottom: 10px; padding-left: 15px;color: white;font-size: 25px;margin:15px 0;}
 #main .about p {color: white; padding: 0 10px;}
 #footer p {color: #40454f;}
