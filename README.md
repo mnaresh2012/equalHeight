@@ -18,7 +18,8 @@ li span {
 ```
 
 ###Contributing -
-Please feel free to contribute to this library.
+Please feel free to contribute to this plugin.
 
 ###Changelog -
+> 1.0.0: BETA Version
 
