@@ -2,13 +2,14 @@
   width: 1045px;
   margin: 0 auto;
 }
-#wrapper p.logo {
-  font-size: 45px;
-  color: #40454f;
-  margin-bottom: 15px;
-  text-shadow: 2px 2px 3px #bbb;
+#wrapper #header {
+  text-align:center;
 }
-#wrapper span {font-weight: bold;}
+#wrapper #header h3 {margin-bottom: 10px;}
+#wrapper #header img {
+  border-radius: 100px; 
+  box-shadow: 3px 4px #ddd;
+}
 #wrapper #main .about {
   height: 200px;
   background:#5ea9dd;
