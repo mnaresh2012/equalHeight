@@ -1,7 +1,7 @@
-##mnaresh2012.github.io
+##equalHeight Plugin
 =====================
 
-###equalHeight Plugin Documentation -
+###Usage and Example -
 ```
 li {
 	line-height: 30px;
@@ -15,5 +15,8 @@ li span {
 	font-weight: bold;
 }
 ```
-Markdown to HTML- `some terminal command will come here.`
+
+###Contributing -
+
+###Changelog -
 
