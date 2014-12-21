@@ -6,7 +6,7 @@
   text-align:center;
 }
 #wrapper #header h3 {margin-bottom: 10px;}
-#wrapper #header span {width: 10%; height; 5px;}
+#wrapper #header span {width: 10%; height:; 5px;}
 #wrapper #header span.one, #wrapper #header span.ten {background: #ff6138;}
 #wrapper #header span.two, #wrapper #header span.nine{background: #ffff9d;}
 #wrapper #header span.three, #wrapper #header span.eight{background: #beeb9f;}
