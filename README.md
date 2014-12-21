@@ -3,9 +3,9 @@ An useful plug-in for the e-commerce web application.
 ###Usage and Example -
 To see an example take a look at the .
 Full API reference documentation can be found from this link.
-To initialze the plugin - 
 ```
-$('#main ul li').equalHeight();
+To initialze the plugin -
+> $('#main ul li').equalHeight();
 ```
 
 ```
