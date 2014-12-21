@@ -1,13 +1,11 @@
-body {background: #f2f2f2;}
+body {background: #fff;margin:0; padding:0;}
+.topbar {background: #000;height: 8px; width: 100%;margin-bottom: 12px;}
 #wrapper {
   width: 1045px;
   margin: 0 auto;
 }
-#wrapper #header {
-  text-align:center;
-  color: #ff6138;
-}
-#wrapper #header h3 {margin-bottom: 10px;}
+#wrapper #header {text-align:center;}
+#wrapper #header h3 {margin-bottom: 10px; color: #ff6138;}
 #wrapper #header span {width: 10%; height: 5px;display: block; float: left;}
 #wrapper #header span.one, #wrapper #header span.ten {background: #ff6138;}
 #wrapper #header span.two, #wrapper #header span.nine{background: #ffff9d;}
