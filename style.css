@@ -1,12 +1,14 @@
+body {background: #f2f2f2;}
 #wrapper {
   width: 1045px;
   margin: 0 auto;
 }
 #wrapper #header {
   text-align:center;
+  color: #ff6138;
 }
 #wrapper #header h3 {margin-bottom: 10px;}
-#wrapper #header span {width: 10%; height: 2px;display: block; float: left;}
+#wrapper #header span {width: 10%; height: 5px;display: block; float: left;}
 #wrapper #header span.one, #wrapper #header span.ten {background: #ff6138;}
 #wrapper #header span.two, #wrapper #header span.nine{background: #ffff9d;}
 #wrapper #header span.three, #wrapper #header span.eight{background: #beeb9f;}
