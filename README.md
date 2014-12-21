@@ -1,5 +1,4 @@
 ##equalHeight Plugin
-An useful plug-in for the e-commerce web application.
 =====================
 ###Usage and Example -
 To see an example take a look at the .
