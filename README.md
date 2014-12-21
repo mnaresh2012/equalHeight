@@ -32,7 +32,6 @@ li span {
 Javascript -  
 
 ```
-
 ###Contributing -
 Please feel free to contribute to this plugin.
 
