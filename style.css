@@ -12,7 +12,7 @@ body {background: #fff;margin:0; padding:0;}
 #wrapper #header img {border-radius: 100px; box-shadow: 3px 4px #ddd;}
 #wrapper #main .about {padding: 5px;}
 #main .about h3 {margin-bottom: 10px; padding-left: 15px;color: white;font-size: 25px;margin:15px 0;}
-#footer p {color: #40454f;}
+#footer p {color: #40454f; text-align: right;}
 	a.button{
 		background: #ECECEC;
 		border-radius: 15px;
