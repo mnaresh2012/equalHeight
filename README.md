@@ -4,7 +4,7 @@ An useful plug-in for the e-commerce web application. What it does is, it will c
 
 ###Dependencies - 
 jQuery - 
-We can achieve this functionality with native javascript as-well. But I did with jQuery. Because now a days everybody using jQuery.
+We can achieve this functionality with native javascript as-well. But I did with jQuery. Because, Now a days everybody using jQuery.
 ###Usage and Example -
 To see an example take a look at my blogpost - [mnaresh2012.github.io](http://mnaresh2012.github.io/index.html)
 ```
