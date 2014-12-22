@@ -1,6 +1,6 @@
 module.exports = function(grunt){
 	grunt.initConfig({
-		jsHint: {
+		jshint: {
 			all: ['Gruntfile.js', 'main.js']
 		}
 	});
