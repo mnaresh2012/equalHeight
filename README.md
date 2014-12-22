@@ -1,7 +1,6 @@
 [![Build Status](https://travis-ci.org/mnaresh2012/mnaresh2012.github.io.svg?branch=master)](https://travis-ci.org/mnaresh2012/mnaresh2012.github.io)
-#equalHeight Plugin
-An useful plug-in for the e-commerce web application. What it does is, it will check the highest value from each element
-and take the max one and apply to each element. Work with a collection of elements
+#equalHeight Plugin (BETA)
+An useful plug-in for the e-commerce web application. What it does is, it will check a collection of elements height and return with the highest one. The highest value will apply to the each element.
 
 ###Dependencies - 
 jQuery - 
@@ -16,5 +15,5 @@ $('#main ul').equalHeight();
 Please feel free to contribute and customize as your need.
 
 ###Changelog -
-> 1.0.0: BETA Version
+> 1.0.0: BETA version
 
