@@ -1,5 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Lobster);
-<link href='http://fonts.googleapis.com/css?family=Courgette' rel='stylesheet' type='text/css'>
+@import url(http://fonts.googleapis.com/css?family=Kaushan+Script);
 body {background: #fff;margin:0; padding:0;}
 .topbar {background: #ccc;height: 8px; width: 100%;margin-bottom: 8px;}
 #wrapper {width: 1045px;margin: 0 auto;}
@@ -13,7 +13,7 @@ body {background: #fff;margin:0; padding:0;}
 #wrapper #header span.five, #wrapper #header span.six{background: #00a388;}
 #wrapper #header img {border-radius: 100px; box-shadow: 3px 4px #ddd;}
 #wrapper #main .about {padding: 5px;width: 80%; margin: 0 auto;}
-.about h2 {font-family: 'Courgette';}
+.about h2 {font-family: 'Kaushan Script';}
 #footer p {color: #40454f; text-align: right;}
 .status {height: 30px;}
 	a.button{
