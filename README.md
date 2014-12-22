@@ -6,7 +6,7 @@ An useful plug-in for the e-commerce web application. What it does is, it will c
 jQuery - 
 We can achieve this functionality with native javascript as-well. But I did with jQuery. Because, Now a days everybody using jQuery.
 ###Usage and Example -
-To see an example take a look at my blogpost - [mnaresh2012.github.io](http://mnaresh2012.github.io/index.html)
+For more details, follow the link - [mnaresh2012.github.io](http://mnaresh2012.github.io/index.html)
 ```
 To initialze the plugin -
 $('#main ul').equalHeight();
