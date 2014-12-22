@@ -1,9 +1,9 @@
 module.exports = function(grunt){
 	grunt.initConfig({
-		jshint: {
+		uglify: {
 			all: ['Gruntfile.js', 'main.js']
 		}
 	});
-	//grunt.loadNpmTasks('grunt-contrib-jshint');
-	//grunt.registerTask('default', ['jshint']);
+	grunt.loadNpmTasks('grunt-contrib-uglify');
+	grunt.registerTask('default', ['uglify']);
 };
