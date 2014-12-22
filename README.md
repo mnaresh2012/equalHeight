@@ -1,4 +1,5 @@
 #equalHeight Plugin
+[![Build Status](https://travis-ci.org/mnaresh2012/mnaresh2012.github.io.svg?branch=master)](https://travis-ci.org/mnaresh2012/mnaresh2012.github.io)
 An useful plug-in for the e-commerce web application. What it does is, it will check the highest value from each element
 and take the max one and apply to each element. Work with a collection of elements
 
