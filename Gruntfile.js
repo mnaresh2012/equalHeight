@@ -5,5 +5,5 @@ module.exports = function(grunt){
 		}
 	});
 	grunt.loadNpmTasks('grunt-contrib-jshint');
-	grunt.loadNpmTasks('default', 'jshint');
+	grunt.registerTask('default', 'jshint');
 };
