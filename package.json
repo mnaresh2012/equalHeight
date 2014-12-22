@@ -2,9 +2,8 @@
 	"name":"mnaresh2012",
 	"version":"1.0.0",
 	"devDependencies": {
-		"grunt": "0.4.1",
-		"grunt-cli": "0.1.9",
-		"grunt-contrib-jshint": "0.6.0"
+		"grunt": "*",
+		"grunt-contrib-uglify": "*"
 	},
 	"scripts": {
 		"test": "grunt --verbose"
