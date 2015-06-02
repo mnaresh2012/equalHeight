@@ -11,7 +11,6 @@ For more details, follow the link - [mnaresh2012.github.io](http://mnaresh2012.g
 ```
 To initialze the plugin -
 $('#myContainer ul li').equalHeight();
-
 ```
 ###Contributing -
 Please feel free to modify as your need.
