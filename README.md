@@ -10,11 +10,11 @@ We can achieve this functionality with native javascript as-well. But I did with
 For more details, follow the link - [mnaresh2012.github.io](http://mnaresh2012.github.io/index.html)
 ```
 To initialze the plugin -
-$('#main ul').equalHeight();
+$('#myContainer ul li').equalHeight();
 ```
 ###Contributing -
 Please feel free to modify as your need.
 
 ###Changelog -
-> 1.0.0: BETA version
+> 0.0.1: BETA version
 
