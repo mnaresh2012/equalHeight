@@ -1,7 +1,7 @@
 module.exports = function(grunt){
 	grunt.initConfig({
 		uglify: {
-			all: ['Gruntfile.js', 'main.js']
+			all: ['main.js']
 		}
 	});
 	grunt.loadNpmTasks('grunt-contrib-uglify');
