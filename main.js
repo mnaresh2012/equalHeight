@@ -11,16 +11,16 @@
 
 'use strict'
 ;(function ($) {
-		$.fn.equalHeight = function () {
-			var tallest = 0,
-			elements = this;
-			elements.each(function (index, elem) {
-				var maxHeight = $(elem).outerHeight();
-				if (maxHeight >= tallest) {
-					tallest = maxHeight;
-				}
-			});
-			elements.height(tallest);
-			return this;
+	$.fn.equalHeight = function () {
+		var tallest = 0,
+		elements = this;
+		elements.each(function (index, elem) {
+			var maxHeight = $(elem).outerHeight();
+			if (maxHeight >= tallest) {
+				tallest = maxHeight;
+			}
+		});
+		elements.height(tallest);
+		return this;
 		}
 	}(jQuery));
