@@ -22,5 +22,5 @@
 		});
 		elements.height(tallest);
 		return this;
-		}
-	}(jQuery));
+	}
+}(jQuery));
