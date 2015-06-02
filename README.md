@@ -13,7 +13,7 @@ To initialze the plugin -
 $('#main ul').equalHeight();
 ```
 ###Contributing -
-Please feel free to contribute.
+Please feel free to modify as your need.
 
 ###Changelog -
 > 1.0.0: BETA version
