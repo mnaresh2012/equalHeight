@@ -11,30 +11,8 @@ For more details, follow the link - [mnaresh2012.github.io](http://mnaresh2012.g
 ```
 To initialze the plugin -
 $('#myContainer ul li').equalHeight();
-```
 
 ```
-Example -
-HTML - 
-<ul id='equalHeight'>
-    <li>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat ut quas saepe blanditiis laboriosam.?</p>
-    </li>
-    <li>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat ut quas saepe blanditiis laboriosam assumenda atque eos. Quos saepe molestias enim minima sed iste excepturi pariatur voluptatum repellat nam accusantium? laboriosam assumenda atque eos. Quos saepe molestias enim minima sed iste excepturi pariatur voluptatum.</p>
-    </li>
-    <li>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat ut quas saepe blanditiis laboriosam assumenda atque eos. Quos saepe molestias enim minima sed iste excepturi pariatur voluptatum repellat nam accusantium? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia obcaecati ipsa architecto quasi dolor error ratione saepe nisi distinctio minus repellat laboriosam quae accusamus iusto culpa asperiores minima commodi voluptatem.</p>
-    </li>
-    <li>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat ut quas saepe blanditiis laboriosam.?</p>
-    </li>
-</ul>
-
-javascript - 
-$('#equalHeight li').equalHeight();
-```
-
 ###Contributing -
 Please feel free to modify as your need.
 
