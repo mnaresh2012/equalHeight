@@ -1,6 +1,6 @@
 /*!
 * NAME OF THE FILE (main.js)
-* This file contains the code for the equalHeigh.
+* This file contains the code for the equalHeight.
 * 
 * @project   equalHeight
 * @date      02-06-2015 
