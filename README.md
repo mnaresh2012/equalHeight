@@ -4,7 +4,6 @@ An useful plug-in for the e-commerce web application. What it does is, it will c
 ###Dependencies - 
 jQuery - 
 We can achieve this functionality with native javascript as-well. But I did with jQuery.
-
 Because of it's popularity.
 ###Usage and Example -
 For more details, follow the link - [mnaresh2012.github.io](http://mnaresh2012.github.io/index.html)
