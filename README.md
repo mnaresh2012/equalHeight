@@ -1,4 +1,4 @@
-#equalHeight Plug-in (BETA) [![GitHub version](http://img.shields.io/badge/version-0.0.1-brightgreen.svg)]()
+#equalHeight Plug-in [![GitHub version](http://img.shields.io/badge/version-0.0.1-brightgreen.svg)]()
 An useful plug-in for the e-commerce web application. What it does is, it will check a collection of elements height and return with the highest one. The highest value will apply to the each element.
 
 ###Dependencies - 
