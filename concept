@@ -1,0 +1,225 @@
+Basics:
+
+Closures
+Prototypes
+Inheritance & Prototype Chain
+String
+Function
+Objects/Classes, Datatypes
+Event Listeners/Handlers
+Arrays
+Variable Scoping
+Hosting
+Callbacks
+this
+Call, Apply and Bind
+OOPS in javascript
+IIFE
+Timers in javascript
+Synchronous and Asynchronous
+SetTimeOut and SetInterval with Examples
+Doctype in Javascript
+Scope
+Strict Mode
+Cookies
+Local & Session Storage
+DOM
+Lexical Scoping
+Module Pattern
+Namespace
+Deferred, Promise
+Delegates
+Memory Management
+Native & Host Objects
+
+Advanced:
+HTML 4/5
+CSS 3
+Grunt
+RequireJS
+HandleBars
+Accessibility
+Cross Browser Compatibility
+Graceful degradation vs Progressive Enhancements
+NodeJS
+Underscore
+BackboneJS
+AngularJS
+Marionette
+JQuery
+JQueryUI
+AJAX
+JSON
+ECMAScript
+cors
+touch events/mobile events
+
+URLs:
+http://bp.sapient-lab.com/#javascript
+http://techbus.safaribooksonline.com/home
+
+
+
+
+
+
+
+
+
+
+
+
+html5
+#Navigator
+server side events
+geolocation
+web workers
+web storage : local storage and seeion storage
+application cache 
+
+html5 canvas -  used to draw graphics its a container for drawing graphics, intensive gaming applications
+html5 svg - scalable vector graphics (2d graphics in xml format),zoomable,high quality , resolution,google maps 
+html5 new elements :
+   figure - figcaption
+   nav header footer article aside section
+   
+css3
+
+pseudoclasses :hover :link :active :first-child :before :after :visited
+pseudoelements  ::first-line ::first-letter  ::first-child
+
+css media types @media print @media screen @media aural (speech and sound)
+css selectors :  attribute selectors input[type=text] a[target=_blank] 
+				 class selectors
+				 id selector
+				 pseudoclass selectors
+				 
+css3 
+		border-radius
+		border-image
+		box-shadow
+css3 multiple columns column-count,column-rule,column-gap
+css3 fonts @font-face{
+				font-family: urowncustomename;
+				src: url();
+				}
+z-index
+	iframe
+css frameworks like---bootstrap,960.gs,scss
+webkit animation....transition,transform,translate
+semantic and logical tags
+responsive design
+design pattern
+why json not xml?
+which one is good
+some basic functions from jquery...like children,parent,fadeInshow/hide etc.
+			
+				
+Javascript
+
+gracefull degradation, Progressive enhancement
+inheritance in javascript
+garbeg collection
+static variables
+closure
+ecma script 6
+scope in javascript
+hosting in javascript
+memory leak in javascript for unused objects
+iterator, generator
+H|TML5 se generally Application cache pe puchta hai 
+and storage... 
+in that... cross domain storage... local storage scope... browser storage scope.. 
+session me within tab scope
+CSS me preprocessors... 
+Less/SASS-SCSS
+
+
+so focus more on html and css3 
+javascript i know.. few points they wll ask.. same:
+1. Prototype
+2. Inheritance
+3. design pattern
+4. closure
+5. hosting
+
+6. JSON Padding (Optional)
+7. OOps concepts
+
+
+HTML5: difference between HTML & HTML5
+1. New elments added, form elements and attributes
+2. New API
+3. Storage
+4. Application Cache
+
+CSS3: 
+any framework like Less/Sass
+1. Difference
+basic question of position i.e. absolute, relative, static, fixed.
+wht if change the postion in relative... 
+New selectors
+Aur in Jquery 
+Scroll position, selectors. and common questions.. 
+
+
+Data types:
+1)string
+2)number
+3)object
+4) array
+
+String - substring(first,end)
+			slice(first,end)
+			substr(first,length)
+			
+
+closures -
+1)returning a function reference to a variable.
+2)extending the life time of a variable.
+
+Array.prototype.slice.call(arrLikObject)
+
+Error object try () {
+						throw new Error('');
+						}
+						catch (e){
+						console.log(e.name+e.message);
+							}
+							
+Prototype Inheritance
+one object inherits from another object
+Various ways of achieving prototypal inheritance
+1) rabbit._proto_= animal							
+2) rabbit =  Object.create(animal)
+3) Rabbit.prototype = Animal;
+
+extend 
+var Person  = Class.extend({
+				});
+var Employee = Person.extend({
+		});
+
+Design Patterns in Javascript(Creational,Structural,Behavioral)
+1)	Singleton   ( Creational)
+2) Facade ( Strcutural)
+3) Mediator Pattern ( Behvioral)
+
+Ways of supporting cross domain requests
+JSONP ( javascript object notation with padding) - cross domain requests
+1) only get requests
+2)				 server has to support 
+
+Server side proxy
+CORS (Cross Domain Resource Sharing)  Access Control Allow Origin
+Oops concept
+1) Abstraction - hiding complex details using prototypes we can create interfaces.
+2)Encapsulation - Object Creation patterns ex: constructor pattern, prototype pattern, object literal pattern 
+3) Inheritance - prototype inheritance
+4) Polymorphism - calling same method on different objects using call and apply
+
+
+Multiple Inheritance
+.extend(object1,object2)
+
+window.location.href.indexOf
