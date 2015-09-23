@@ -5,14 +5,17 @@ An useful plug-in for the e-commerce web application. What it does is, it will c
 jQuery - 
 We can achieve this functionality with native javascript as-well. But I did with jQuery.
 Because these days everybody use jquery.
-###Usage and Example -
-For more details, follow the link - [mnaresh2012.github.io](http://mnaresh2012.github.io/index.html)
+###Plugin Initialization -
+To initialize the plug-in.
 ```
 To initialze the plugin -
 $('#myContainer ul li').equalHeight();
 ```
 ###Contributing -
 Please feel free to modify as your need.
+
+###Developer website -
+For more details, follow the link - [mnaresh2012.github.io](http://mnaresh2012.github.io/index.html)
 
 ###Changelog -
 > 0.0.1: BETA version
