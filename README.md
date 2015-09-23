@@ -12,7 +12,7 @@ To initialze the plugin -
 $('#myContainer ul li').equalHeight();
 ```
 ###Developer website -
-My personal gitHub usre page -  [mnaresh2012.github.io](http://mnaresh2012.github.io/index.html)
+My personal gitHub user page -  [mnaresh2012.github.io](http://mnaresh2012.github.io/index.html)
 
 ###Contributing -
 Please feel free to modify as your need.
