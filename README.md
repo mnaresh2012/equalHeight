@@ -11,11 +11,11 @@ To initialize the plug-in.
 To initialze the plugin -
 $('#myContainer ul li').equalHeight();
 ```
-###Contributing -
-Please feel free to modify as your need.
-
 ###Developer website -
 For more details, follow the link - [mnaresh2012.github.io](http://mnaresh2012.github.io/index.html)
+
+###Contributing -
+Please feel free to modify as your need.
 
 ###Changelog -
 > 0.0.1: BETA version
