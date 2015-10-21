@@ -11,8 +11,10 @@ To initialize the plug-in.
 To initialze the plugin -
 $('#myContainer ul li').equalHeight();
 ```
-###Developer website -
-My personal gitHub user page -  [mnaresh2012.github.io](http://mnaresh2012.github.io/index.html)
+###Developer Blog -
+gitHub -  [mnaresh2012.github.io](http://mnaresh2012.github.io/index.html)
+wordpress - [https://mahantanaresh.wordpress.com/](https://mahantanaresh.wordpress.com/)
+blogger - [http://mnaresh.blogspot.in/](http://mnaresh.blogspot.in/)
 
 ###Contributing -
 Please feel free to modify as your need.
@@ -22,5 +24,3 @@ Please feel free to modify as your need.
 
 ### Licence [![License version](http://img.shields.io/badge/License-MIT-red.svg)]()
 > The MIT License (MIT)
-
-> Copyright (c) 2015 mr. naresh kumar
