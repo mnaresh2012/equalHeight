@@ -2,9 +2,8 @@
 An useful plug-in for the e-commerce web application. What it does is, it will check a collection of elements height and return with the highest one. The highest value will apply to the each element.
 
 ###Dependencies - 
-jQuery - 
 We can achieve this functionality with native javascript as-well. But I did with jQuery.
-Because these days everybody use jquery.
+Because these days for web application everybody use jquery.
 ###Plugin Initialization -
 To initialize the plug-in.
 ```
